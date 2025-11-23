@@ -23,11 +23,7 @@ It provides intelligent financial analytics, property tracking, document generat
 ## 📸 Full UI Showcase (Scrollable)
 
 
-<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
-
- <div style="overflow-x: auto; white-space: nowrap;">
-
- 
+<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;"> 
   <img src="New Aqal/Screenshot_1763908657.png" width="220" style="margin-right:10px;" />
   <img src="New Aqal/Screenshot_1763908668.png" width="220" style="margin-right:10px;" />
   <img src="New Aqal/Screenshot_1763908761.png" width="220" style="margin-right:10px;" />
