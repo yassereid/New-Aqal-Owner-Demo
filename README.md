@@ -25,7 +25,7 @@ It provides intelligent financial analytics, property tracking, document generat
 
 <div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px;">
 
-  <img src="NewAqal/Screenshot_1763908657.png" width="220" />
+  [<img src="NewAqal/Screenshot_1763908657.png" width="220" />
   <img src="NewAqal/Screenshot_1763908668.png" width="220" />
   <img src="NewAqal/Screenshot_1763908761.png" width="220" />
   <img src="NewAqal/Screenshot_1763908783.png" width="220" />
@@ -47,8 +47,7 @@ It provides intelligent financial analytics, property tracking, document generat
   <img src="NewAqal/Screenshot_1763909026.png" width="220" />
   <img src="NewAqal/Screenshot_1763909059.png" width="220" />
   <img src="NewAqal/Screenshot_1763909155.png" width="220" />
-  <img src="NewAqal/Screenshot_1763909158.png" width="220" />
-
+  <img src="NewAqal/Screenshot_1763909158.png" width="220" />]
 </div>
 
 ---
