@@ -1,10 +1,5 @@
 # 📱 New-Aqal-Owner-Demo
 
-<div align="center">
-  <img src="screenshots/logo.png" width="110" alt="Aqal Logo"/>
-
-  <br><br>
-
   <img src="https://img.shields.io/badge/Flutter-3.22-02569B?logo=flutter" />
   <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%2B%20BLoC-blue" />
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase" />
@@ -29,29 +24,29 @@ It provides intelligent financial analytics, property tracking, document generat
 
 <div style="overflow-x: auto; white-space: nowrap;">
   
-  <img src="newAqal/Screenshot_1763908657.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908668.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908761.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908783.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908787.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908798.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908812.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908837.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908858.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908863.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908882.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908936.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908954.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908969.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908982.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908989.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908992.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763908995.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763909011.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763909026.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763909059.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763909155.png" width="220" style="margin-right:10px;" />
-  <img src="newAqal/Screenshot_1763909158.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908657.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908668.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908761.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908783.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908787.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908798.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908812.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908837.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908858.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908863.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908882.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908936.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908954.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908969.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908982.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908989.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908992.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763908995.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763909011.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763909026.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763909059.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763909155.png" width="220" style="margin-right:10px;" />
+  <img src="new Aqal/Screenshot_1763909158.png" width="220" style="margin-right:10px;" />
 
 </div>
 
