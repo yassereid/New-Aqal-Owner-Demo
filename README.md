@@ -53,7 +53,6 @@ It provides intelligent financial analytics, property tracking, document generat
 
 </div>
 
----
 
 ## 📲 App Availability
 
