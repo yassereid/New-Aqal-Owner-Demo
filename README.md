@@ -29,6 +29,26 @@
 
 ---
 
+## 📲 Availability
+
+**Aqal** is currently in the final stages of review and will be available for download shortly on both major platforms.
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google_Play-Coming%20Soon-grey?style=for-the-badge&logo=google-play&logoColor=white" height="50" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/App_Store-Uploading%20Soon-grey?style=for-the-badge&logo=apple&logoColor=white" height="50" />
+  </a>
+</div>
+
+<br>
+
+> **Testing Access:** If you are a recruiter or client and need immediate access to a test build (APK/TestFlight), please verify the "Releases" section of this repository or contact me directly.
+
 ## ✨ Key Features Implemented
 
 * **🔐 Secure Authentication:** Biometric login & secure token storage using `flutter_secure_storage`.
