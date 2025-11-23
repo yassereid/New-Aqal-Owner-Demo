@@ -1,85 +1,148 @@
 # 📱 New-Aqal-Owner-Demo
 
 <div align="center">
-  <img src="screenshots/logo.png" width="100" />
+  <img src="screenshots/logo.png" width="110" alt="Aqal Logo"/>
+
   <br><br>
-  
+
   <img src="https://img.shields.io/badge/Flutter-3.22-02569B?logo=flutter" />
-  <img src="https://img.shields.io/badge/Architecture-Clean%20%2B%20BLoC-blue" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20Architecture%20%2B%20BLoC-blue" />
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase" />
-  <img src="https://img.shields.io/badge/Status-Live%20Production-success" />
-</div>
-
-## 📖 About The Project
-
-**Aqal** is a comprehensive real estate solution designed to bridge the gap between property owners and tenants. It facilitates property tracking, financial analytics, and tenant management in a secure, seamless mobile environment.
-
-> **Note:** This is a closed-source commercial project. This repository serves as a showcase of the architecture, UI/UX, and features implemented.
-
----
-
-## 📸 App Screenshots
-
-<div align="center">
-  <img src="screenshots/home.png" width="22%" alt="Dashboard" />
-  <img src="screenshots/details.png" width="22%" alt="Property Details" />
-  <img src="screenshots/chart.png" width="22%" alt="Analytics" />
-  <img src="screenshots/form.png" width="22%" alt="Add Property" />
+  <img src="https://img.shields.io/badge/Status-Production_Ready-success" />
 </div>
 
 ---
 
-## 📲 Availability
+## 📖 About the Project
 
-**Aqal** is currently in the final stages of review and will be available for download shortly on both major platforms.
+**Aqal** is a modern, commercial-grade real estate management platform designed to simplify the relationship between property owners and tenants.  
+It provides intelligent financial analytics, property tracking, document generation, and tenant management — all inside a polished, secure Flutter application.
+
+> **Note:** The source code is private due to commercial restrictions.  
+> This repository serves as a **demo** showcasing the architecture, engineering methods, UI design, and feature set implemented in the production app.
+
+---
+
+## 📸 Screenshots
+
+## 📸 Full UI Showcase (Scrollable)
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  
+  <img src="newAqal/Screenshot_1763908657.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908668.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908761.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908783.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908787.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908798.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908812.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908837.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908858.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908863.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908882.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908936.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908954.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908969.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908982.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908989.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908992.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763908995.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763909011.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763909026.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763909059.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763909155.png" width="220" style="margin-right:10px;" />
+  <img src="newAqal/Screenshot_1763909158.png" width="220" style="margin-right:10px;" />
+
+</div>
+
+
+---
+
+## 📲 App Availability
+
+The application is currently in the final review stage and will be released soon:
 
 <div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Google_Play-Coming%20Soon-grey?style=for-the-badge&logo=google-play&logoColor=white" height="50" />
-  </a>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a href="#">
-    <img src="https://img.shields.io/badge/App_Store-Uploading%20Soon-grey?style=for-the-badge&logo=apple&logoColor=white" height="50" />
-  </a>
+  <img src="https://img.shields.io/badge/Google_Play-Coming_Soon-grey?style=for-the-badge&logo=google-play" height="48" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/App_Store-Uploading_Soon-grey?style=for-the-badge&logo=apple" height="48" />
 </div>
 
 <br>
 
-> **Testing Access:** If you are a recruiter or client and need immediate access to a test build (APK/TestFlight), please verify the "Releases" section of this repository or contact me directly.
+> **Test Access for Recruiters / Clients:**  
+> A TestFlight build / APK can be provided upon request.  
+> You may also check the **Releases** tab for available test builds.
 
-## ✨ Key Features Implemented
+---
 
-* **🔐 Secure Authentication:** Biometric login & secure token storage using `flutter_secure_storage`.
-* **📊 Interactive Analytics:** Real-time financial breakdowns using `fl_chart` with custom animations.
-* **🌍 Multi-language Support:** Dynamic switching between English & Arabic using `easy_localization`.
-* **📄 Document Engine:** Logic to generate PDF contracts and manage file attachments (`file_picker`, `pdf`).
-* **📡 Robust Networking:** A type-safe API layer built with `Dio`, `Retrofit`, and `JsonSerializable`.
-* **🔔 Real-time Updates:** Integrated Push Notifications via Firebase Messaging.
+## ✨ Core Features
+
+### 🔐 Secure Authentication
+- Biometric Login (FaceID / Fingerprint)
+- Encrypted token storage using `flutter_secure_storage`
+
+### 📊 Real-Time Analytics
+- Custom charts using `fl_chart`
+- Animated income, expenses, and property performance visuals
+
+### 🌍 Multilingual Experience
+- Quick switching between **English** and **Arabic**
+- Built with `easy_localization`
+
+### 📄 Smart Document Engine
+- Auto-generated PDF rental contracts
+- File previews, attachments, and export options
+
+### 📡 Reliable Networking
+- Fully type-safe API layer  
+- Built with **Dio + Retrofit + JsonSerializable**
+
+### 🔔 Push Notifications
+- Firebase Cloud Messaging integration  
+- Alerts for payments, contract renewals, and tenant activity
 
 ---
 
 ## 🛠 Tech Stack Overview
 
-Although the code is private, the application is built using industry-standard engineering practices:
-
-| Category | Technologies Used |
-| :--- | :--- |
-| **State Management** | Flutter BLoC (Cubit), Freezed |
-| **Architecture** | Clean Architecture, Dependency Injection (GetIt) |
-| **UI/UX** | ScreenUtil (Responsive), Shimmer, Lottie Animations |
-| **Data & Network** | Retrofit, Dio, Interceptors, Pretty Logger |
-| **Backend Services** | Firebase (Core, Auth, Messaging) |
+| Category | Technologies |
+|--------|--------------|
+| **State Management** | BLoC (Cubit), Freezed |
+| **Architecture** | Clean Architecture, Repository Pattern, Dependency Injection (GetIt) |
+| **UI/UX** | ScreenUtil, Shimmer, Lottie, Responsive Layout |
+| **Networking** | Dio, Retrofit, Interceptors, Pretty Logger |
+| **Backend** | Firebase Auth, Firebase Messaging, Firebase Core |
 | **Local Storage** | Shared Preferences, Secure Storage |
+| **Testing** | Mocktail, Bloc Test (internal use) |
 
 ---
 
+---
+
+## 🔍 Why This Demo Exists
+
+This repository highlights:
+
+- My **approach to scalable Flutter architecture**
+- Ability to build **commercial-grade, production-ready apps**
+- Experience with **real clients, real backend, and real deployments**
+- Expertise in **Clean Architecture + BLoC**, Firebase, and advanced Flutter tooling
+
+Perfect for recruiters, clients, and code reviewers wanting insight into my engineering workflow.
+
+---
 
 ## 📬 Contact
 
-If you are interested in my work or this project architecture, feel free to reach out.
+If you are interested in my work or would like to discuss collaboration:
 
-* **Developer:** [Yasser Eid]
-* **Email:** [yassereid247@gmail.com]
+**👨‍💻 Developer:** *Yasser Eid*  
+**📧 Email:** *yassereid247@gmail.com*
+
+I am open to freelance projects, full-time opportunities, and architectural consulting.
+
+---
+
+Although the full source code is private, the structure follows Clean Architecture principles:
 
