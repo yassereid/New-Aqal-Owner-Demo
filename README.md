@@ -1,55 +1,65 @@
 # 📱 New-Aqal-Owner-Demo
 
-**Aqal** is a modern, robust Flutter application designed for [Insert brief description: e.g., Real Estate Management / Property Tracking / Financial Analytics]. Built with scalability and clean architecture in mind.
-
 <div align="center">
-  <img src="screenshots/demo.gif" width="250" />
-  <br>
-  <img src="screenshots/screen1.png" width="200" />
-  <img src="screenshots/screen2.png" width="200" />
-  <img src="screenshots/screen3.png" width="200" />
+  <img src="screenshots/logo.png" width="100" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Flutter-3.22-02569B?logo=flutter" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%2B%20BLoC-blue" />
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase" />
+  <img src="https://img.shields.io/badge/Status-Live%20Production-success" />
 </div>
 
-## ✨ Features
+## 📖 About The Project
 
-* **Secure Authentication:** Integration with secure storage for token management.
-* **Real-time Analytics:** Interactive charts and data visualization using `fl_chart`.
-* **Push Notifications:** Integrated Firebase Messaging for real-time updates.
-* **Document Management:** Upload files, pick images, and generate/view PDFs.
-* **Responsive Design:** Adapts to various screen sizes using `flutter_screenutil`.
+**Aqal** is a comprehensive real estate solution designed to bridge the gap between property owners and tenants. It facilitates property tracking, financial analytics, and tenant management in a secure, seamless mobile environment.
 
-## 🛠 Tech Stack
-
-This project utilizes a modern Flutter tech stack focusing on maintainability and code generation.
-
-### Architecture & State Management
-* **State Management:** [Flutter Bloc](https://pub.dev/packages/flutter_bloc) (Cubit pattern)
-* **Dependency Injection:** [GetIt](https://pub.dev/packages/get_it)
-* **Data Class Generation:** [Freezed](https://pub.dev/packages/freezed) & [JsonSerializable](https://pub.dev/packages/json_serializable)
-
-### Networking & API
-* **Client:** [Dio](https://pub.dev/packages/dio) with [Pretty Dio Logger](https://pub.dev/packages/pretty_dio_logger)
-* **Type-safe HTTP Client:** [Retrofit](https://pub.dev/packages/retrofit)
-
-### UI/UX
-* **Design System:** Custom fonts (Inter) & Shimmer effects
-* **Charts:** [FL Chart](https://pub.dev/packages/fl_chart)
-* **Animations:** [Lottie](https://pub.dev/packages/lottie)
-* **Responsiveness:** [Flutter ScreenUtil](https://pub.dev/packages/flutter_screenutil)
-
-### Local Storage & caching
-* **Secure Storage:** [Flutter Secure Storage](https://pub.dev/packages/flutter_secure_storage)
-* **Shared Preferences:** [Shared Preferences](https://pub.dev/packages/shared_preferences)
-
-### Integrations
-* **Firebase:** Core & Messaging
-* **File Handling:** File Picker, Image Picker, Open File, PDF
-* **Notifications:** Flutter Local Notifications
-
-
-
-
+> **Note:** This is a closed-source commercial project. This repository serves as a showcase of the architecture, UI/UX, and features implemented.
 
 ---
 
-Developed with ❤️ by [Your Name]
+## 📸 App Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" width="22%" alt="Dashboard" />
+  <img src="screenshots/details.png" width="22%" alt="Property Details" />
+  <img src="screenshots/chart.png" width="22%" alt="Analytics" />
+  <img src="screenshots/form.png" width="22%" alt="Add Property" />
+</div>
+
+---
+
+## ✨ Key Features Implemented
+
+* **🔐 Secure Authentication:** Biometric login & secure token storage using `flutter_secure_storage`.
+* **📊 Interactive Analytics:** Real-time financial breakdowns using `fl_chart` with custom animations.
+* **🌍 Multi-language Support:** Dynamic switching between English & Arabic using `easy_localization`.
+* **📄 Document Engine:** Logic to generate PDF contracts and manage file attachments (`file_picker`, `pdf`).
+* **📡 Robust Networking:** A type-safe API layer built with `Dio`, `Retrofit`, and `JsonSerializable`.
+* **🔔 Real-time Updates:** Integrated Push Notifications via Firebase Messaging.
+
+---
+
+## 🛠 Tech Stack Overview
+
+Although the code is private, the application is built using industry-standard engineering practices:
+
+| Category | Technologies Used |
+| :--- | :--- |
+| **State Management** | Flutter BLoC (Cubit), Freezed |
+| **Architecture** | Clean Architecture, Dependency Injection (GetIt) |
+| **UI/UX** | ScreenUtil (Responsive), Shimmer, Lottie Animations |
+| **Data & Network** | Retrofit, Dio, Interceptors, Pretty Logger |
+| **Backend Services** | Firebase (Core, Auth, Messaging) |
+| **Local Storage** | Shared Preferences, Secure Storage |
+
+---
+
+
+## 📬 Contact
+
+If you are interested in my work or this project architecture, feel free to reach out.
+
+* **Developer:** [Yasser Eid]
+* **Email:** [yassereid247@gmail.com]
+
